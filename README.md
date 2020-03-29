@@ -1,3 +1,12 @@
+Frontend web da aplicação Be The Hero utilizando React
+
+Utilizei as seguintes dependências:
+- ```axios``` para requisições http
+- ```react-router-dom``` para criar rotas no react 
+- ```react-icons``` para ícones
+
+A url da api deve ser definida em /src/services/api.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
