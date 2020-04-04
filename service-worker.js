@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oministack-frontend-web/precache-manifest.590636d5df842716ade861845e34d663.js"
+  "/oministack-frontend-web/precache-manifest.4e79204d643f0e86fb0de664f27c68b8.js"
 );
 
 self.addEventListener('message', (event) => {

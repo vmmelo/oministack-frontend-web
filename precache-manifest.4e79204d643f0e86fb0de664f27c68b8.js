@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1896b3ccf7c29d416345f2456781f56",
+    "revision": "e4e50c5ad456bfdd5b426d0025f1099a",
     "url": "/oministack-frontend-web/index.html"
   },
   {
-    "revision": "c04d396621e388515274",
+    "revision": "fcf76d9206ff006ea5cc",
     "url": "/oministack-frontend-web/static/css/main.fb14e001.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oministack-frontend-web/static/js/2.4254f9c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c04d396621e388515274",
-    "url": "/oministack-frontend-web/static/js/main.d5e8d0b3.chunk.js"
+    "revision": "fcf76d9206ff006ea5cc",
+    "url": "/oministack-frontend-web/static/js/main.8136f414.chunk.js"
   },
   {
     "revision": "ff596f489a466d284ac2",
