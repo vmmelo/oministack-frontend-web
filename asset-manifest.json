@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/oministack-frontend-web/static/css/main.fb14e001.chunk.css",
-    "main.js": "/oministack-frontend-web/static/js/main.8136f414.chunk.js",
-    "main.js.map": "/oministack-frontend-web/static/js/main.8136f414.chunk.js.map",
-    "runtime-main.js": "/oministack-frontend-web/static/js/runtime-main.9e38080f.js",
-    "runtime-main.js.map": "/oministack-frontend-web/static/js/runtime-main.9e38080f.js.map",
-    "static/js/2.4254f9c7.chunk.js": "/oministack-frontend-web/static/js/2.4254f9c7.chunk.js",
-    "static/js/2.4254f9c7.chunk.js.map": "/oministack-frontend-web/static/js/2.4254f9c7.chunk.js.map",
-    "index.html": "/oministack-frontend-web/index.html",
-    "precache-manifest.4e79204d643f0e86fb0de664f27c68b8.js": "/oministack-frontend-web/precache-manifest.4e79204d643f0e86fb0de664f27c68b8.js",
-    "service-worker.js": "/oministack-frontend-web/service-worker.js",
-    "static/css/main.fb14e001.chunk.css.map": "/oministack-frontend-web/static/css/main.fb14e001.chunk.css.map",
-    "static/js/2.4254f9c7.chunk.js.LICENSE.txt": "/oministack-frontend-web/static/js/2.4254f9c7.chunk.js.LICENSE.txt",
-    "static/media/heroes.png": "/oministack-frontend-web/static/media/heroes.1f4b5508.png",
-    "static/media/logo.svg": "/oministack-frontend-web/static/media/logo.62e865e1.svg"
+    "main.css": "./static/css/main.7b22bdb6.chunk.css",
+    "main.js": "./static/js/main.a772a089.chunk.js",
+    "main.js.map": "./static/js/main.a772a089.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3993e964.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3993e964.js.map",
+    "static/js/2.4254f9c7.chunk.js": "./static/js/2.4254f9c7.chunk.js",
+    "static/js/2.4254f9c7.chunk.js.map": "./static/js/2.4254f9c7.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.579c140ae7a5294900771ae3f47021cb.js": "./precache-manifest.579c140ae7a5294900771ae3f47021cb.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.7b22bdb6.chunk.css.map": "./static/css/main.7b22bdb6.chunk.css.map",
+    "static/js/2.4254f9c7.chunk.js.LICENSE.txt": "./static/js/2.4254f9c7.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "./static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "./static/media/logo.7eea718b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e38080f.js",
+    "static/js/runtime-main.3993e964.js",
     "static/js/2.4254f9c7.chunk.js",
-    "static/css/main.fb14e001.chunk.css",
-    "static/js/main.8136f414.chunk.js"
+    "static/css/main.7b22bdb6.chunk.css",
+    "static/js/main.a772a089.chunk.js"
   ]
 }
