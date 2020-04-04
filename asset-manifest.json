@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bethehero/static/css/main.fb14e001.chunk.css",
-    "main.js": "/bethehero/static/js/main.d5e8d0b3.chunk.js",
-    "main.js.map": "/bethehero/static/js/main.d5e8d0b3.chunk.js.map",
-    "runtime-main.js": "/bethehero/static/js/runtime-main.7c300f95.js",
-    "runtime-main.js.map": "/bethehero/static/js/runtime-main.7c300f95.js.map",
-    "static/js/2.4254f9c7.chunk.js": "/bethehero/static/js/2.4254f9c7.chunk.js",
-    "static/js/2.4254f9c7.chunk.js.map": "/bethehero/static/js/2.4254f9c7.chunk.js.map",
-    "index.html": "/bethehero/index.html",
-    "precache-manifest.4ba9f93c62ce42724d0563db70859d31.js": "/bethehero/precache-manifest.4ba9f93c62ce42724d0563db70859d31.js",
-    "service-worker.js": "/bethehero/service-worker.js",
-    "static/css/main.fb14e001.chunk.css.map": "/bethehero/static/css/main.fb14e001.chunk.css.map",
-    "static/js/2.4254f9c7.chunk.js.LICENSE.txt": "/bethehero/static/js/2.4254f9c7.chunk.js.LICENSE.txt",
-    "static/media/heroes.png": "/bethehero/static/media/heroes.1f4b5508.png",
-    "static/media/logo.svg": "/bethehero/static/media/logo.62e865e1.svg"
+    "main.css": "/oministack-frontend-web/static/css/main.fb14e001.chunk.css",
+    "main.js": "/oministack-frontend-web/static/js/main.d5e8d0b3.chunk.js",
+    "main.js.map": "/oministack-frontend-web/static/js/main.d5e8d0b3.chunk.js.map",
+    "runtime-main.js": "/oministack-frontend-web/static/js/runtime-main.9e38080f.js",
+    "runtime-main.js.map": "/oministack-frontend-web/static/js/runtime-main.9e38080f.js.map",
+    "static/js/2.4254f9c7.chunk.js": "/oministack-frontend-web/static/js/2.4254f9c7.chunk.js",
+    "static/js/2.4254f9c7.chunk.js.map": "/oministack-frontend-web/static/js/2.4254f9c7.chunk.js.map",
+    "index.html": "/oministack-frontend-web/index.html",
+    "precache-manifest.590636d5df842716ade861845e34d663.js": "/oministack-frontend-web/precache-manifest.590636d5df842716ade861845e34d663.js",
+    "service-worker.js": "/oministack-frontend-web/service-worker.js",
+    "static/css/main.fb14e001.chunk.css.map": "/oministack-frontend-web/static/css/main.fb14e001.chunk.css.map",
+    "static/js/2.4254f9c7.chunk.js.LICENSE.txt": "/oministack-frontend-web/static/js/2.4254f9c7.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/oministack-frontend-web/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/oministack-frontend-web/static/media/logo.62e865e1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c300f95.js",
+    "static/js/runtime-main.9e38080f.js",
     "static/js/2.4254f9c7.chunk.js",
     "static/css/main.fb14e001.chunk.css",
     "static/js/main.d5e8d0b3.chunk.js"
