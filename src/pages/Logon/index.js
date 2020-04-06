@@ -20,7 +20,10 @@ export default function Logon() {
             history.push('/profile');
             console.log(response.data.name);
         } catch (e) {
-            console.log(e);
+            console.log(e.response.status === 400);
+            if (e.response.status === 400 && e.response.data.error !== undefined) {
+                return alert(e.response.data.error)
+            }
             alert('Falha no login. Tente novamente')
         }
     }

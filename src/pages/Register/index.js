@@ -30,7 +30,10 @@ export default function Register() {
             alert(`Seu id de acesso é: ${response.data.id}`)
             history.push('/');
         } catch (e) {
-            console.log(e);
+            console.log(e.response.data);
+            if(e.response.data.statusCode === 400 && e.response.data.message !== undefined) {
+                return alert(e.response.data.message)
+            }
             alert('Erro no cadastro, tente novamente.')
         }
     }
