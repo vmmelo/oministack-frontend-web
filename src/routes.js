@@ -8,7 +8,8 @@ import NewIncident from './pages/NewIncident';
 
 export default function Routes() {
     return (
-        <BrowserRouter>
+        //passando basename para tentar resolver pagina em branco na build
+        <BrowserRouter basename={window.location.pathname || ''}>
             <Switch>
                 {/*passa o parametro exact para evitar que caia sempre nessa rota ja que todos vao comecar com /. Assim garantimos que so cai nela se for exatamente apenas a / */}
                 <Route path={'/'} exact component={Logon}/>
