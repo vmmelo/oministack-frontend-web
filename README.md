@@ -9,6 +9,8 @@ A url da api deve ser definida em /src/services/api.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Uma ferramenta interessante para o deploy do react é o [Netlify](https://app.netlify.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
